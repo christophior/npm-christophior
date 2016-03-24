@@ -16,4 +16,4 @@ console.log(christophior.github) // 'https://twitter.com/christophior'
 ```
 
 ## License
-** MIT **
+**MIT**
